@@ -8,6 +8,10 @@ import {
 } from 'react-router-dom'
 import Home from './pages/Home.jsx'
 import CompanyOne from './pages/CompanyOne.jsx'
+import CompanyTwo from './pages/CompanyTwo.jsx'
+import CompanyThree from './pages/CompanyThree.jsx'
+import CompanyFour from './pages/CompanyFour.jsx'
+import CompanyFive from './pages/CompanyFive.jsx'
 
 const router = createBrowserRouter([
   {
