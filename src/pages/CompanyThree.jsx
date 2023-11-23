@@ -1,10 +1,11 @@
 import React from 'react'
+import WooriBank from "../assets/img/logo-bank-woori.png"
 
 function CompanyThree() {
     return (
         <div>
             <section className='bg-blue-500 w-full h-[500px]'>
-                <img src="src/assets/img/logo-bank-woori.png" alt="" className='w-full h-full object-cover' />
+                <img src={WooriBank} alt="" className='w-full h-full object-cover' />
             </section>
 
             <section className='px-6 py-4'>
