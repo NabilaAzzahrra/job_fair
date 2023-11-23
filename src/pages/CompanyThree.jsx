@@ -4,8 +4,8 @@ import WooriBank from "../assets/img/logo-bank-woori.png"
 function CompanyThree() {
     return (
         <div>
-            <section className='bg-blue-500 w-full h-[500px]'>
-                <img src={WooriBank} alt="" className='w-full h-full object-cover' />
+            <section className='flex md:bg-white md:w-full md:h-[500px] md:items-center md:justify-center sm:bg-white sm:w-full sm:h-[100px] sm:items-center sm:justify-center'>
+                <img src={WooriBank} alt="" className='h-full object-cover' />
             </section>
 
             <section className='px-6 py-4'>

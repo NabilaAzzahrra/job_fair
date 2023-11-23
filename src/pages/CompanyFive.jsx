@@ -4,9 +4,10 @@ import Catur from "../assets/img/csa.png"
 function CompanyFive() {
     return (
         <div>
-            <section className='flex bg-white w-full h-[500px] items-center justify-center'>
-                <img src={Catur} alt="" className=' flex h-[400px] object-cover' />
+            <section className='flex md:bg-white md:w-full md:h-[500px] md:items-center md:justify-center sm:bg-white sm:w-full sm:h-[100px] sm:items-center sm:justify-center'>
+                <img src={Catur} alt="" className='h-full object-cover' />
             </section>
+
 
             <section className='px-6 py-4'>
                 <h1 className='text-3xl font-bold text-slate-700'>Sales Representative</h1>
