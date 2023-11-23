@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     element: <Home />
   },
   {
-    path: "/mutiara-jaya",
+    path: "/tasco",
     element: <CompanyOne />
   },
   {
@@ -31,7 +31,7 @@ const router = createBrowserRouter([
     element: <CompanyThree />
   },
   {
-    path: "/matell-indo",
+    path: "/adira",
     element: <CompanyFour />
   },
   {
