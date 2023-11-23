@@ -27,7 +27,7 @@ const router = createBrowserRouter([
     element: <CompanyTwo />
   },
   {
-    path: "/adira-finance",
+    path: "/bank-woori-saudara",
     element: <CompanyThree />
   },
   {
@@ -35,7 +35,7 @@ const router = createBrowserRouter([
     element: <CompanyFour />
   },
   {
-    path: "/lp3i-tasik",
+    path: "/csa",
     element: <CompanyFive />
   }
 ])
