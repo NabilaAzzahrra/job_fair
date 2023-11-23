@@ -1,11 +1,12 @@
 import React from 'react'
+import AdiraFinance from "../assets/img/adira.png"
 
 function CompanyFour() {
     return (
         <div>
             <section className='md:bg-white sm:bg-white w-full md:h-[300px] sm:h-[80px] mt-[-25px] ml-[-50]'>
                 <div className="flex items-center justify-end h-full">
-                    <img src='src/assets/img/adira.jpg' alt='Deskripsi gambar' className='object-cover mt-6' />
+                    <img src={AdiraFinance} alt='Deskripsi gambar' className='object-cover mt-6' />
                 </div>
             </section>
 
