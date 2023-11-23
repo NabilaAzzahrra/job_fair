@@ -1,5 +1,5 @@
 import React from 'react'
-import AdiraFinance from "../assets/img/adira.png"
+import AdiraFinance from "../assets/img/adira.jpg"
 
 function CompanyFour() {
     return (
