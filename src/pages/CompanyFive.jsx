@@ -1,10 +1,11 @@
 import React from 'react'
+import Catur from "../assets/img/csa.png"
 
 function CompanyFive() {
     return (
         <div>
             <section className='flex bg-white w-full h-[500px] items-center justify-center'>
-                <img src="src/assets/img/csa.png" alt="" className=' flex h-[400px] object-cover'/>
+                <img src={Catur} alt="" className=' flex h-[400px] object-cover' />
             </section>
 
             <section className='px-6 py-4'>
