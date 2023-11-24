@@ -23,7 +23,7 @@ const router = createBrowserRouter([
     element: <CompanyOne />
   },
   {
-    path: "/gajah-mada",
+    path: "/santika",
     element: <CompanyTwo />
   },
   {
