@@ -64,7 +64,7 @@ function CompanyTwo() {
                         </li>
                     </ul>
                 </p>
-                <a href='https://forms.gle/24Kb7swwaCDWVW5m7' className='mt-3 flex'>
+                <a href='https://forms.gle/EzmdYBgEFs9VUVJLA' className='mt-3 flex'>
                     <span className='flex items-center justify-center w-40 h-10 bg-blue-600  shadow-md text-white font-bold'> Apply Now </span>
                     <span className='flex items-center justify-center w-10 h-10 bg-blue-700  shadow-md text-white font-bold'><i className="fa-solid fa-caret-right"></i></span>
                 </a>
@@ -115,7 +115,7 @@ function CompanyTwo() {
                         </li>
                     </ul>
                 </p>
-                <a href='https://forms.gle/24Kb7swwaCDWVW5m7' className='mt-3 flex'>
+                <a href='https://forms.gle/EzmdYBgEFs9VUVJLA' className='mt-3 flex'>
                     <span className='flex items-center justify-center w-40 h-10 bg-blue-600  shadow-md text-white font-bold'> Apply Now </span>
                     <span className='flex items-center justify-center w-10 h-10 bg-blue-700  shadow-md text-white font-bold'><i className="fa-solid fa-caret-right"></i></span>
                 </a>
